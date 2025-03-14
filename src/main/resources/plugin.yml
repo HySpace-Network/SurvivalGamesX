@@ -1,0 +1,6 @@
+name: SurvivalGamesX
+version: '${project.version}'
+main: it.hyspace.survivalgamesx.SGPlugin
+api-version: '1.13'
+authors: [Mellooh, TricolorAsp1209]
+description: SurvivalGames Plugin for HySpace Network
